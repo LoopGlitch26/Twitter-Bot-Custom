@@ -1,5 +1,7 @@
 # Twitter-Bot-Custom
 
+### Demo Live Bot: https://twitter.com/bot_resources
+
 ## Steps to follow:
 
 1) Create a `twitter account` for your twitter bot
@@ -10,7 +12,7 @@
 
 4) Create a `new app`
 
-5) Regenerate `Tokens`
+5)  Change to `read and write` mode and regenerate the `Tokens`
 
 6) Put the tokens in the [secrets.py](https://github.com/LoopGlitch26/Twitter-Bot-Custom/blob/main/secrets.py) file
 
